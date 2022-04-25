@@ -1,6 +1,8 @@
 1. Running the program.
-
-	After compiling, run 'java drawingMain.drawingMain' to open the program.
+	
+	To simply run the application, download the P4-Drawing.jar file, go into your console, navigate to the file and run 'java -jar P4-Drawing.jar'
+	
+	To run the project and tests, After compiling in your IDE or from the console, run 'java drawingMain.drawingMain' to open the program.
 	All tests are written in JUnit 4, the same style as with the animal Chess tests. I ran the tests from intelliJ by loading the project directory within 
 	intelliJ, marking the src directory as the sources root, and marking the test directory as the test root, then running the 3 individual test classes.
 
